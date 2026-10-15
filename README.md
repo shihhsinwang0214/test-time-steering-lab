@@ -7,7 +7,7 @@
 
 | 檔案 | 用途 |
 |---|---|
-| `u7_minimal.ipynb` | Starter notebook：載入模型、reward、看圖、一個空的 `my_method()`、輸出 `submission.csv` |
+| `dma-u7-test-time-steering-lab.ipynb` | Starter notebook：載入模型、reward、看圖、一個空的 `my_method()`、輸出 `submission.csv` |
 | `fm_model.pt` | 模型權重（598 KB，state_dict；網路定義在 notebook 裡） |
 
 怎麼跑：點上面的 Colab 按鈕，或 `git clone` 後在本機開 notebook（需要 `torch numpy pandas matplotlib`）。
